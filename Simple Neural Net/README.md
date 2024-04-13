@@ -1,1 +1,1 @@
-This is a simple neural network for Machine Learning that converts °C to °F written in Python and Google Colab
+This is a simple Machine Learning (neural network) written in Python and Google Colab for  that solves a Regression problem: it consists on convert °C to °F
